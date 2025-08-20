@@ -38,6 +38,21 @@ With Marp directives and CSS overrides, you can:
 - 🔢 Use mathematical notation  
 - 📑 Automatically generate page numbers  
 
+# Algorithmic Complexity
+
+Here’s an example of mathematical equations:
+
+$$
+T(n) = O(n \log n)
+$$
+
+$$
+\text{NPV} = \sum_{t=0}^{T} \frac{CF_t}{(1 + r)^t}
+$$
+
+---
+
+
 ---
 
 <!-- background image slide -->
